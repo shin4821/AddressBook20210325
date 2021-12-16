@@ -57,7 +57,7 @@ C++로 설계한 주소록을 JAVA로 설계해보라고 하셨습니다.
 -------------
 * 주소록 메인화면
 
-![자바1](https://user-images.githubusercontent.com/63482037/146290758-732bedfa-4dc5-4820-8019-50d00ced0e90.PNG)
+![자바11](https://user-images.githubusercontent.com/63482037/146291725-b3aa23d6-a619-4158-8d7c-b5d1d6e2ebc9.PNG)
 
 
 * 주소록 찾기화면
